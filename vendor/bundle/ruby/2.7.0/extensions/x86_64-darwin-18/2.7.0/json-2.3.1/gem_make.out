@@ -1,0 +1,13 @@
+current directory: /Users/mrastall/Documents/makers_work/week8/instagram/vendor/bundle/ruby/2.7.0/gems/json-2.3.1/ext/json
+/Users/mrastall/.rvm/rubies/ruby-2.7.0/bin/ruby -I /Users/mrastall/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20201120-62407-58ds9s.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mrastall/Documents/makers_work/week8/instagram/vendor/bundle/ruby/2.7.0/gems/json-2.3.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/mrastall/Documents/makers_work/week8/instagram/vendor/bundle/ruby/2.7.0/gems/json-2.3.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/mrastall/Documents/makers_work/week8/instagram/vendor/bundle/ruby/2.7.0/gems/json-2.3.1/ext/json
+make "DESTDIR=" install
